@@ -1,2 +1,3 @@
-# cpp_template
-Tempalte C++ project with makefile
+# cpp-template
+
+C++ template project with makefile.
